@@ -2,6 +2,7 @@
     "name": "sau412/mysql_lib",
     "version": "1.0.0",
     "type": "library",
+    "minimum-stability": "dev",
     "require": {
     }
 }
